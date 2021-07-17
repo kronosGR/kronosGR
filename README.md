@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kronosGR
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++ and Front-End technologies
+- 👀 I’m interested in Unreal Engine
+- 🌱 I’m currently learning Unreal Engine and Front-End technologies
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kronosgr/)
 
 <!---
