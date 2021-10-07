@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kronosGR
-- 👀 I’m interested in Unreal Engine
 - 🌱 I’m currently Front-End student but also learning Unreal Engine and Back-End technologies
+- 👀 I’m interested in Unreal Engine
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kronosgr/)
 
 <!---
