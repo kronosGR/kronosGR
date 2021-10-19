@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kronosGR
 - 🌱 I’m currently Front-End student but also learning other technologies(Node.js, React.js, SQL and NoSQL databases)
-- 👀 I’m interested in Unreal Engine
+- 👀 I’m also interested in Unreal Engine.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kronosgr/)
 
 <!---
