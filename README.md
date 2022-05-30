@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kronosgr" alt="kronosgr" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Ionic and Unreal Engine Blueprints/C++**
+- 🌱 I’m currently learning **Angular, Ionic, Asp.net core, C#, and Unreal Engine Blueprints/C++**
+- August 2022 starting studies for Backend Developer at Noroff.no (2 years part-time)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kronosGR](https://github.com/kronosGR)
 
