@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kronosgr" alt="kronosgr" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Ionic, Asp.net core, C#, and Unreal Engine Blueprints/C++**
+- 🌱 I’m currently learning **D3.js, Asp.net core, C#**, and create my own projects using FE techs (React.js/Angular) and Unreal Engine 5(Blueprints and C++)
 - August 2022 starting studies for Backend Developer at Noroff.no (2 years part-time)
 
-- 👨‍💻 All of my projects are available at [https://github.com/kronosGR](https://github.com/kronosGR)
+- 👨‍💻 All of my projects from school are available at [https://github.com/kronosGR](https://github.com/kronosGR)
 
 - 📫 How to reach me **geo.elgeo@gmail.com**
 
