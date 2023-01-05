@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Georgios</h1>
-<h3 align="center">A Frontend developer from Greece living in Norway</h3>
+<h3 align="center">A Fullstack developer++ living in Norway</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kronosgr&label=Profile%20views&color=0e75b6&style=flat" alt="kronosgr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kronosgr" alt="kronosgr" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Asp.net core, C#**, and create my own projects using FE techs (React.js/Angular) and Unreal Engine 5(Blueprints and C++)
+- 🌱 I’m currently learning **Java, Asp.net core, C#**, and create my own projects using FE techs (React.js/Angular/Ionic) and Unreal Engine 5(Blueprints and C++)
 - Studying Backend Developer at Noroff.no (2 years part-time)
+
+- My Jetbrains Academy profile at [https://hyperskill.org/profile/304850259](https://hyperskill.org/profile/304850259)
 
 - 👨‍💻 All of my projects from school are available at [https://github.com/kronosGR](https://github.com/kronosGR)
 
