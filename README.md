@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kronosgr" alt="kronosgr" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Asp.net core, C#**, and create my own projects using FE techs (React.js/Angular/Ionic) and Unreal Engine 5(Blueprints and C++)
+- 🌱 I’m currently learning **Back-End with Node.js, express.js, mongodb**, and create my own projects using FE techs (React.js/Angular/Ionic) and Unreal Engine 5(Blueprints and C++)
 - Studying Backend Developer at Noroff.no (2 years part-time)
 
 - My Jetbrains Academy profile at [https://hyperskill.org/profile/304850259](https://hyperskill.org/profile/304850259)
