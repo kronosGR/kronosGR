@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Georgios</h1>
+<h1 align="center">Hi 👋, I'm KronosGR</h1>
 <h3 align="center">A Fullstack developer++ living in Norway</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kronosgr&label=Profile%20views&color=0e75b6&style=flat" alt="kronosgr" /> </p>
