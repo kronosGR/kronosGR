@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kronosgr" alt="kronosgr" /></a> </p>
 
-- 🌱Fullstack developer (React.js, Ionic, bootstrap, Nodejs, Mongodb, MySql), Qt Developer(C++/Widgets, QML/QtQuick)
+- 🌱Fullstack developer (React.js, Ionic, bootstrap, Nodejs, Express.js, Mongodb, MySql ++), Qt Developer(C++/Widgets, QML/QtQuick)
 - Studying Backend Developer at Noroff.no (2 years), currently on 2nd year learning Azure and backend with .Net
 
 - My Jetbrains Academy profile at [https://hyperskill.org/profile/304850259](https://hyperskill.org/profile/304850259)
