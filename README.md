@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm KronosGR</h1>
-<h3 align="center">A Fullstack developer++ living in Norway</h3>
+<h3 align="center">A Fullstack developer++ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kronosgr&label=Profile%20views&color=0e75b6&style=flat" alt="kronosgr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kronosgr" alt="kronosgr" /></a> </p>
 
-- 🌱Fullstack developer (React.js, Ionic, bootstrap, Nodejs, Express.js, Mongodb, MySql ++), Qt Developer(C++/Widgets, QML/QtQuick)
+- 🌱Fullstack developer (React.js, Ionic, bootstrap, Nodejs, Express.js, Electron Mongodb, MySql ++)
 - Studying Backend Developer at Noroff.no (2 years), currently on 2nd year learning Azure and backend with .Net
 
 - My Jetbrains Academy profile at [https://hyperskill.org/profile/304850259](https://hyperskill.org/profile/304850259)
