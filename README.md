@@ -10,11 +10,11 @@
 
 - My Jetbrains Academy profile at [https://hyperskill.org/profile/304850259](https://hyperskill.org/profile/304850259)
 
-- 👨‍💻 All of my projects from school are available at [https://github.com/kronosGR](https://github.com/kronosGR)
+- 👨‍💻 All of my projects from school are available at [My Portfolio](https://kronosgr.net/))
 
 - 📫 How to reach me **geo.elgeo@gmail.com**
 
-- 📄 Know about my experiences [https://kronosgr.net/](https://kronosgr.net/)
+- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/georgios-katsanakis-3420592b9/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
